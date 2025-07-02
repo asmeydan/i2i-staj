@@ -3,7 +3,7 @@
 ## Instance oluşturma
  Google Cloud hesabı açtıktan sonra buradan bir makine oluşturuyoruz.
  Ve makinemize çeşitli ayarlamalar yaparak dışarıdan erişilebilmesini sağlıyoruz.
-![instance olusturma](https://github.com/asmeydan/google-cloud-connection/blob/main/Ekran%20Resmi%202025-07-01%2013.26.39.png)
+![instance olusturma](https://raw.githubusercontent.com/asmeydan/i2i-staj/refs/heads/main/homework1/Ekran%20Resmi%202025-07-01%2013.26.39.png)
 ![instance ayarları](https://raw.githubusercontent.com/asmeydan/google-cloud-connection/refs/heads/main/Ekran%20Resmi%202025-07-01%2013.30.30.png)
 
 ## Oluşturduğumuz Instance'ı Görüntüleme
